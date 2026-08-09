@@ -5,3 +5,10 @@ dist/
 .DS_Store
 .env
 .env.*
+
+# Local publishing metadata and private SITECRAFT evidence
+.pcbridge-github-adopt.json
+test_contract.py
+contracts/
+tests/chromium-evidence.test.js
+tests/production-server.test.js
